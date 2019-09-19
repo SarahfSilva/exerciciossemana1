@@ -1,0 +1,40 @@
+p { 
+ color:white;
+}
+p {
+font-family: sans;
+}
+p {
+  line-height: 20px; /* tamanho da altura de cada linha */
+  letter-spacing: 3px; /* tamanho do espaço entre cada letra */
+  word-spacing: 5x; /* tamanho do espaço entre cada palavra */
+  text-indent: 50px; /* tamanho da margem da primeira linha do texto */
+}
+h3 {
+  border-width: medium;
+  border-style: solid;
+  border-color: white;
+  }
+figure {
+  border-top: none;
+  padding-top: 0;
+}
+figcaption {
+  color: white;
+  padding: 0.5em;
+  border: thin silver solid;
+  border-bottom: none;
+}
+body {
+  background-image: url('../pattern.jpg');
+}
+h1 { 
+ color:white;
+}
+h3 { 
+ color:white;
+}
+ol { 
+ font-family: sans;
+ color:white;
+}
